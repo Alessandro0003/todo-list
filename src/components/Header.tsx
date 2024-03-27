@@ -1,5 +1,5 @@
 import styles from './Header.module.css'
-import iconHeader from '../assets/icon.png'
+import iconHeader from '../../public/icon.png'
 
 export function Header() {
   return (

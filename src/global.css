@@ -25,6 +25,10 @@
 }
 
 body {
+  background: var(--gray-600);
+}
+
+body, input, button {
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
